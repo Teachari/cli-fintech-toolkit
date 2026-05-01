@@ -1,7 +1,7 @@
 import java.sql.*;
 import java.util.Scanner;
 
-public class Main {
+public class _1_Main {
     public static void main(String[] args) {
         // Database credentials - Update with your actual password
         String url = "jdbc:mysql://localhost:3306/fintech_db";

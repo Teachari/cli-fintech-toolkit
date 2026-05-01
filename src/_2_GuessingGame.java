@@ -1,7 +1,7 @@
 import java.sql.*;
 import java.util.Scanner;
 
-public class GuessingGame {
+public class _2_GuessingGame {
     public static void main(String[] args) {
         // 1. Connection Setup (Use your specific password)
         String url = "jdbc:mysql://localhost:3306/fintech_db";
