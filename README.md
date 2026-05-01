@@ -1,16 +1,5 @@
-# CLI FinTech Toolkit 
-A command-line Java application with MySQL integration for basic banking operations.
-## Features
-- Java + MySQL connection
-- CLI-based operations
-- Transaction handling (coming soon)
-## Tech Stack
-- Java
-- JDBC
-- MySQL
-## Progress Log
-
-### Day 1
-- Learned JVM basics
-- Connected Java to MySQL
-- Setup project structure
+### Day 2
+- Learned Java data types and operators
+- Created MySQL table
+- Performed INSERT and SELECT queries
+- Built CLI calculator with history feature
