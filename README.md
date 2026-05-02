@@ -1,17 +1,12 @@
-## Day 4
-### 📚 Concepts Learned
-- Java Strings
-- Basic Arrays
-- String manipulation (length, split, iteration)
+### Day 4
 
-### 💻 Project: Text Analyzer
+- Built Text Analyzer using Java
+- Processed user input and detected intent (e.g., deposit)
+- Stored input, intent, and timestamp in MySQL database
 
-A simple CLI-based Java program that analyzes user input text.
+#### Example:
+Input: I want to deposit 200 dollars  
+Detected Intent: deposit  
 
----
-
-###  SQL Practice (FinTech Context)
-
-Although today's program is text-based, I also practiced SQL operations for future financial features.
-
-#### Example: Deposit $200
+Stored in DB:
+| raw_text | detected_intent | log_time |
