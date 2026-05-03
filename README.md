@@ -5,18 +5,21 @@
 - Basic Recursion
 - Connecting Java with MySQL
 ### What I Built
-- Took user input (example: "I want to deposit 200 dollars")
-- Detected intent (deposit / withdraw)
-- Stored data in MySQL database
+- EMI Calculator (CLI-based)
+- Calculates monthly EMI based on:
+  - Loan amount
+  - Interest rate
+  - Time period
+- Stored user input and results in MySQL
 ### Example
 Input:
-I want to deposit 200 dollars
+Loan = 100000  
+Rate = 10%  
+Time = 12 months  
 Output:
-Intent: deposit
-Stored in DB:
-raw_text | detected_intent | log_time
+EMI = calculated value
 ### Tech Used
 - Java
 - MySQL
 ### Summary
-Improved code structure using methods and connected Java with database.
+Built an EMI Calculator and improved code using methods and database connection.
