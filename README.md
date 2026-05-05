@@ -1,19 +1,17 @@
-## Day 6
+## Day 7
+
 ### What I Learned
-- OOP in Java (Classes, Objects)
-- Relationships between tables (Foreign Keys)
+- Inheritance & Polymorphism
+- SQL Aggregate Functions (SUM, AVG, COUNT)
+
 ### What I Built
-- Bank Account system (CLI-based)
-- Menu-driven application
-- Features:
-  - View profile
-  - Deposit money
-  - View linked loans
-### Database
-- Used MySQL
-- Connected tables using foreign keys
-### Tech Used
+- Investment Portfolio CLI
+- Tracks assets (Stock, etc.)
+- Shows analytics from MySQL (total assets, net worth, avg price)
+
+### Tech
 - Java
 - MySQL
+
 ### Summary
-Built a simple banking system using OOP and database relationships.
+Built a simple portfolio system using OOP and SQL analytics.
