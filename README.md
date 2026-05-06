@@ -1,17 +1,16 @@
-## Day 7
+## Day 8
 
 ### What I Learned
-- Inheritance & Polymorphism
-- SQL Aggregate Functions (SUM, AVG, COUNT)
-
+- Abstraction & Interfaces in Java
+- SQL Subqueries & Nested Queries
 ### What I Built
-- Investment Portfolio CLI
-- Tracks assets (Stock, etc.)
-- Shows analytics from MySQL (total assets, net worth, avg price)
-
-### Tech
-- Java
+- Payment Gateway CLI
+- Features:
+  - Transfer money between users
+  - Validate transactions
+  - Update balances in database
+### Tech Used
+- Java (Interfaces, OOP)
 - MySQL
-
 ### Summary
-Built a simple portfolio system using OOP and SQL analytics.
+Built a simple payment system using interfaces and database queries.
