@@ -1,16 +1,15 @@
-## Day 8
-
+## Day 9
 ### What I Learned
-- Abstraction & Interfaces in Java
-- SQL Subqueries & Nested Queries
+- Exception Handling in Java
+- Robust Error Handling
+- SQL Indexes
 ### What I Built
-- Payment Gateway CLI
-- Features:
-  - Transfer money between users
-  - Validate transactions
-  - Update balances in database
+- Improved fintech project stability
+- Handled invalid inputs using try-catch
+- Added validations for safer transactions
+- Used SQL indexes for better query performance
 ### Tech Used
-- Java (Interfaces, OOP)
+- Java
 - MySQL
 ### Summary
-Built a simple payment system using interfaces and database queries.
+Improved the fintech system with better error handling and optimized database queries.
