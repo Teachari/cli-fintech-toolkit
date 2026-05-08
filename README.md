@@ -1,15 +1,14 @@
-## Day 9
+## Day 10
 ### What I Learned
-- Exception Handling in Java
-- Robust Error Handling
-- SQL Indexes
+- Java Generics
+- Collections Framework
+- SQL Window Functions
 ### What I Built
-- Improved fintech project stability
-- Handled invalid inputs using try-catch
-- Added validations for safer transactions
-- Used SQL indexes for better query performance
+- Generic Transaction Log System
+- Dynamic transaction history using Java Collections
+- Synced transaction data with MySQL
 ### Tech Used
 - Java
 - MySQL
 ### Summary
-Improved the fintech system with better error handling and optimized database queries.
+Built a transaction logging system using Generics, Collections, and SQL analytics.
