@@ -1,14 +1,18 @@
-## Day 11
+## Day 12
+
 ### What I Learned
-- Lambda Expressions
-- Java Streams API
-- Stream-based data processing
+- Optional Class
+- Java Date/Time API
+- MySQL Stored Procedures
+
 ### What I Built
-- Stream-Based Analytics Engine
-- Filtered and analyzed transaction data using Streams
-- Used Lambdas for clean processing logic
+- Time-Based Interest Calculator
+- Calculated user interest using transaction history
+- Connected Java with MySQL stored procedures
+
 ### Tech Used
 - Java
 - MySQL
+
 ### Summary
-Built a Stream-Based Analytics Engine using modern Java features like Lambdas and Streams.
+Built a Time-Based Interest Calculator using Optional, Date/Time API, and MySQL Stored Procedures.
