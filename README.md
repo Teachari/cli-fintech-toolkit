@@ -1,18 +1,14 @@
-## Day 12
-
+## Day 13
 ### What I Learned
-- Optional Class
-- Java Date/Time API
-- MySQL Stored Procedures
-
+- File I/O in Java
+- CSV Import/Export
+- MySQL Triggers
 ### What I Built
-- Time-Based Interest Calculator
-- Calculated user interest using transaction history
-- Connected Java with MySQL stored procedures
-
+- Bulk Transaction Import System
+- Imported CSV transaction data into MySQL
+- Added database audit triggers for transaction tracking
 ### Tech Used
 - Java
 - MySQL
-
 ### Summary
-Built a Time-Based Interest Calculator using Optional, Date/Time API, and MySQL Stored Procedures.
+Built a Bulk Transaction Import System using Java File I/O, CSV processing, and MySQL audit triggers.
