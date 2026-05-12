@@ -1,14 +1,18 @@
-## Day 13
+## Day 14
+
 ### What I Learned
-- File I/O in Java
-- CSV Import/Export
-- MySQL Triggers
+- Core FinTech transaction systems
+- Batch transaction processing
+- Ledger and balance tracking
+
 ### What I Built
-- Bulk Transaction Import System
-- Imported CSV transaction data into MySQL
-- Added database audit triggers for transaction tracking
+- Backend transaction processing system
+- Live ledger matrix analytics
+- Batch transaction queue with MySQL sync
+
 ### Tech Used
 - Java
 - MySQL
+
 ### Summary
-Built a Bulk Transaction Import System using Java File I/O, CSV processing, and MySQL audit triggers.
+Built a core FinTech transaction and ledger processing system using Java and MySQL.
