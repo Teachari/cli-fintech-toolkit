@@ -1,15 +1,15 @@
-# Day 17 - Fast Lookup Engine
+# Day 18 - Search & Sort Report Engine
 
-Built a Fast Lookup & Replica Cache system using Java + MySQL.
+Built a Search & Sort Report Engine using Java + MySQL.
 
 ## Concepts Learned
-- HashMap for fast O(1) lookup
-- TreeMap for sorted data handling
-- Replication and caching concepts
-- Fast user directory search system
+- Sorting algorithms
+- Full-text search concepts
+- Comparator in Java
+- Transaction report generation
 
 ## Features
-- Instant user lookup
-- Sorted user directory
-- In-memory replica cache
-- Secure environment variable setup
+- Sort reports by amount
+- Sort users alphabetically
+- Full-text transaction search
+- Dynamic financial reporting
