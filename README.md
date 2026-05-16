@@ -1,15 +1,18 @@
-# Day 16 - Priority Payment Processor
+## Day 15
 
-Built a Priority Payment Processor using Java + MySQL.
+### What I Learned
+- Linked List
+- Stack Data Structure
+- ACID Transactions
 
-## Concepts Learned
-- PriorityQueue in Java
-- Transaction Isolation Levels
-- Queue-based Payment Processing
-- Secure Database Transactions
+### What I Built
+- Secure Transaction Engine
+- Undo/Redo transaction system
+- Transaction history tracking with MySQL
 
-## Features
-- Processes high-priority payments first
-- Uses SERIALIZABLE transaction isolation
-- Secure environment variable configuration
-- Real-time payment queue system
+### Tech Used
+- Java
+- MySQL
+
+### Summary
+Built a secure transaction engine using Linked List, Stack, and ACID transaction concepts with undo/redo support.
