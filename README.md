@@ -1,18 +1,15 @@
-## Day 15
+# Day 17 - Fast Lookup Engine
 
-### What I Learned
-- Linked List
-- Stack Data Structure
-- ACID Transactions
+Built a Fast Lookup & Replica Cache system using Java + MySQL.
 
-### What I Built
-- Secure Transaction Engine
-- Undo/Redo transaction system
-- Transaction history tracking with MySQL
+## Concepts Learned
+- HashMap for fast O(1) lookup
+- TreeMap for sorted data handling
+- Replication and caching concepts
+- Fast user directory search system
 
-### Tech Used
-- Java
-- MySQL
-
-### Summary
-Built a secure transaction engine using Linked List, Stack, and ACID transaction concepts with undo/redo support.
+## Features
+- Instant user lookup
+- Sorted user directory
+- In-memory replica cache
+- Secure environment variable setup
